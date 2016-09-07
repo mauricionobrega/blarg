@@ -384,7 +384,7 @@ function Deck(type, x, y, options,zOffset) {
     };
 
     /**
-     * Removes an occurence of the specified observer from the observers list.
+     * Removes an occurrence of the specified observer from the observers list.
      * If the given observer is in the list twice, only the first instance is
      * removed. If the given observer is not in the list, nothing happens.
      */
